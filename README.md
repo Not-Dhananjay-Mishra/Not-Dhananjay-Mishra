@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhananjay Mishra</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on [NotAnyAI](https://github.com/Not-Dhananjay-Mishra/NotAnyAI-Backend)
+- 🔭 I’m currently working on [NotAnyAI](https://github.com/Not-Dhananjay-Mishra/NotAnyAI-Backend) (Personal Project)
 
 - 🌱 I’m currently learning **Go and NodeJS**
 
