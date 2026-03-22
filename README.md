@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhananjay Mishra</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on [go-github](https://github.com/google/go-github)
-
-- 🌱 I’m currently learning **Go and NodeJS**
-
-- 💬 Ask me about **Golang, React**
-
-- 📫 How to reach me **technicaldmcontact@gmail.com**
+- Passionate about building scalable systems with Go (Golang)
+- Interested in backend engineering, APIs, and developer tooling
+- Code reviewer & contributor to the [google/go-github](https://github.com/google/go-github) project
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
