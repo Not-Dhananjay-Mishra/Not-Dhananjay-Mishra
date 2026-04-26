@@ -1,7 +1,7 @@
 # Dhananjay Mishra
 **CS Student · Open Source Contributor · Gopher**
 
-<img src="https://gitranks.com/api/badge/v2/Not-Dhananjay-Mishra?ranking=c&context=country&type=position&meta=percentile&label=Contributor+Rank+in+India&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" />
+<a href="https://gitranks.com/profile/Not-Dhananjay-Mishra" target="_blank"><img src="https://gitranks.com/api/badge/v2/Not-Dhananjay-Mishra?ranking=c&context=country&type=position&meta=percentile&label=Contributor+Rank+in+India&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /></a>
 
 
 
